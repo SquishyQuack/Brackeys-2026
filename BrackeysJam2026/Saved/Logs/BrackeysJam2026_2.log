@@ -1,0 +1,1110 @@
+﻿Log file open, 08/23/26 17:45:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BrackeysJam2026
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.802900
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 5700G with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=2f941637c5594aacbd4e94b91a4b4a66 -AUTH_TYPE=exchangecode -epicapp=UE_4.27 -epicenv=Prod -EpicPortal -epicusername=Calabronx -epicuserid=198bbedd46bc4b878aa121d60088e353 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/UnrealEngine/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Engine.ini]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Engine.ini]
+[2026.08.23-20.45.05:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Engine.ini]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Engine.ini]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2026.08.23-20.45.05:720][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Engine.ini]
+[2026.08.23-20.45.05:720][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Engine.ini]
+[2026.08.23-20.45.05:729][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.08.23-20.45.05:729][  0]LogInit: Selected Device Profile: [Windows]
+[2026.08.23-20.45.05:729][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2026.08.23-20.45.05:729][  0]LogHAL: Display: Platform has ~ 14 GB [14920806400 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2026.08.23-20.45.05:729][  0]LogInit: Going up to parent DeviceProfile []
+[2026.08.23-20.45.05:729][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2026.08.23-20.45.05:729][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:729][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Scalability.ini]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.08.23-20.45.05:730][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2026.08.23-20.45.05:733][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2026.08.23-20.45.05:733][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2026.08.23-20.45.05:733][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2026.08.23-20.45.05:733][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Engine.ini]
+[2026.08.23-20.45.05:733][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Config/Windows/Editor.ini]
+[2026.08.23-20.45.05:733][  0]LogInit: Computer: SEBASTIANGMRPC
+[2026.08.23-20.45.05:733][  0]LogInit: User: sebas
+[2026.08.23-20.45.05:733][  0]LogInit: CPU Page size=4096, Cores=8
+[2026.08.23-20.45.05:733][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2026.08.23-20.45.05:733][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx)
+[2026.08.23-20.45.05:733][  0]LogMemory: Platform Memory Stats for Windows
+[2026.08.23-20.45.05:733][  0]LogMemory: Process Physical Memory: 151.02 MB used, 151.02 MB peak
+[2026.08.23-20.45.05:733][  0]LogMemory: Process Virtual Memory: 129.69 MB used, 129.69 MB peak
+[2026.08.23-20.45.05:733][  0]LogMemory: Physical Memory: 12015.70 MB used,  2213.89 MB free, 14229.59 MB total
+[2026.08.23-20.45.05:733][  0]LogMemory: Virtual Memory: 134215456.00 MB used,  2274.30 MB free, 134217728.00 MB total
+[2026.08.23-20.45.05:740][  0]LogWindows: WindowsPlatformFeatures enabled
+[2026.08.23-20.45.05:943][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2026.08.23-20.45.05:958][  0]LogInit: Using OS detected language (en-US).
+[2026.08.23-20.45.05:958][  0]LogInit: Using OS detected locale (es-419).
+[2026.08.23-20.45.06:084][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2026.08.23-20.45.06:862][  0]LogInit: Setting process to per monitor DPI aware
+[2026.08.23-20.45.06:874][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2026.08.23-20.45.06:977][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2026.08.23-20.45.06:977][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2026.08.23-20.45.07:913][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2026.08.23-20.45.07:923][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2026.08.23-20.45.07:923][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2026.08.23-20.45.07:923][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2026.08.23-20.45.07:923][  0]LogD3D11RHI: D3D11 adapters:
+[2026.08.23-20.45.07:980][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2026.08.23-20.45.07:980][  0]LogD3D11RHI:       2031/0/7114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2026.08.23-20.45.07:982][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2026.08.23-20.45.07:982][  0]LogD3D11RHI:       0/0/7114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2026.08.23-20.45.07:983][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2026.08.23-20.45.07:983][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2026.08.23-20.45.07:983][  0]LogD3D11RHI:     VendorId    : 1002
+[2026.08.23-20.45.07:983][  0]LogD3D11RHI:     DeviceId    : 1638
+[2026.08.23-20.45.07:983][  0]LogD3D11RHI:     SubSysId    : 16361002
+[2026.08.23-20.45.07:983][  0]LogD3D11RHI:     Revision    : 00c8
+[2026.08.23-20.45.07:983][  0]LogD3D11RHI:     DedicatedVideoMemory : 2130460672 bytes
+[2026.08.23-20.45.07:983][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2026.08.23-20.45.07:983][  0]LogD3D11RHI:     SharedSystemMemory : 7460403200 bytes
+[2026.08.23-20.45.07:983][  0]LogD3D11RHI:     AdapterLuid : 0 54580
+[2026.08.23-20.45.07:988][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2026.08.23-20.45.07:988][  0]LogD3D11RHI:     GPU DeviceId: 0x1638 (for the marketing name, search the web for "GPU Device Id")
+[2026.08.23-20.45.07:988][  0]LogWindows: EnumDisplayDevices:
+[2026.08.23-20.45.07:988][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:0 D:1)
+[2026.08.23-20.45.07:989][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2026.08.23-20.45.07:989][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2026.08.23-20.45.07:989][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2026.08.23-20.45.07:989][  0]LogWindows:    4. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2026.08.23-20.45.07:990][  0]LogWindows: DebugString: FoundDriverCount:5 
+[2026.08.23-20.45.07:990][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Graphics
+[2026.08.23-20.45.07:990][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 22.20.27.09 (internal:31.0.12027.9001, unified:31.0.12027.9001)
+[2026.08.23-20.45.07:990][  0]LogD3D11RHI:      Driver Date: 3-30-2023
+[2026.08.23-20.45.07:990][  0]LogRHI: Texture pool is 5903 MB (70% of 8433 MB)
+[2026.08.23-20.45.08:052][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2026.08.23-20.45.08:052][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2026.08.23-20.45.08:052][  0]LogD3D11RHI:     VendorId    : 1002
+[2026.08.23-20.45.08:052][  0]LogD3D11RHI:     DeviceId    : 1638
+[2026.08.23-20.45.08:052][  0]LogD3D11RHI:     SubSysId    : 16361002
+[2026.08.23-20.45.08:052][  0]LogD3D11RHI:     Revision    : 00c8
+[2026.08.23-20.45.08:052][  0]LogD3D11RHI:     DedicatedVideoMemory : 2130460672 bytes
+[2026.08.23-20.45.08:052][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2026.08.23-20.45.08:052][  0]LogD3D11RHI:     SharedSystemMemory : 7460403200 bytes
+[2026.08.23-20.45.08:052][  0]LogD3D11RHI:     AdapterLuid : 0 54580
+[2026.08.23-20.45.08:103][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2026.08.23-20.45.08:103][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2026.08.23-20.45.08:103][  0]LogD3D11RHI: Async texture creation enabled
+[2026.08.23-20.45.08:103][  0]LogD3D11RHI: Array index from any shader is supported
+[2026.08.23-20.45.08:114][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2026.08.23-20.45.09:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2026.08.23-20.45.09:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2026.08.23-20.45.09:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2026.08.23-20.45.09:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2026.08.23-20.45.09:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2026.08.23-20.45.09:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2026.08.23-20.45.09:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2026.08.23-20.45.09:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2026.08.23-20.45.09:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2026.08.23-20.45.09:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2026.08.23-20.45.09:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2026.08.23-20.45.09:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2026.08.23-20.45.09:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2026.08.23-20.45.09:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2026.08.23-20.45.09:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2026.08.23-20.45.09:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2026.08.23-20.45.09:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2026.08.23-20.45.09:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2026.08.23-20.45.09:155][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2026.08.23-20.45.09:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2026.08.23-20.45.09:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2026.08.23-20.45.09:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2026.08.23-20.45.09:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2026.08.23-20.45.09:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2026.08.23-20.45.09:244][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2026.08.23-20.45.09:249][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2026.08.23-20.45.09:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2026.08.23-20.45.09:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2026.08.23-20.45.09:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2026.08.23-20.45.09:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2026.08.23-20.45.09:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2026.08.23-20.45.09:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2026.08.23-20.45.09:322][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2026.08.23-20.45.09:341][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2026.08.23-20.45.09:444][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2026.08.23-20.45.09:574][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2026.08.23-20.45.09:574][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Intermediate/Shaders/WorkingDirectory/708/).
+[2026.08.23-20.45.09:574][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sebas/AppData/Local/Temp/UnrealShaderWorkingDir/DE1FE12D4BE443DA4C21CD9D1682FB6A/'.
+[2026.08.23-20.45.09:575][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2026.08.23-20.45.09:575][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2026.08.23-20.45.09:575][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2026.08.23-20.45.11:773][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2026.08.23-20.45.12:006][  0]LogDerivedDataCache: Loaded boot cache 0.23s 94MB C:/Users/sebas/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2026.08.23-20.45.12:006][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sebas/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2026.08.23-20.45.12:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2026.08.23-20.45.12:006][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2026.08.23-20.45.12:006][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2026.08.23-20.45.12:006][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2026.08.23-20.45.12:047][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2026.08.23-20.45.12:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2026.08.23-20.45.12:047][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2026.08.23-20.45.12:223][  0]LogDerivedDataCache: Speed tests for C:/Users/sebas/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.18 seconds
+[2026.08.23-20.45.12:223][  0]LogDerivedDataCache: Display: Performance to C:/Users/sebas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=5.50MBs, RandomWriteSpeed=139.34MBs. Assigned SpeedClass 'Local'
+[2026.08.23-20.45.12:224][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sebas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2026.08.23-20.45.12:224][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2026.08.23-20.45.12:224][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2026.08.23-20.45.12:270][  0]LogSlate: Using FreeType 2.10.0
+[2026.08.23-20.45.12:277][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2026.08.23-20.45.12:553][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2026.08.23-20.45.12:761][  0]LogInit: Selected Device Profile: [Windows]
+[2026.08.23-20.45.12:761][  0]LogInit: Active device profile: [000002538A7F6C00][00000253FE1553C0 49] Windows
+[2026.08.23-20.45.12:761][  0]LogInit: Profiles: [000002538A7F6C00][00000253FE1553C0 49] Windows, [000002538A79E000][000002538B601540 49] WindowsNoEditor, [000002538A7F7900][000002538B6056C0 49] WindowsServer, [000002538A79D300][000002538B609840 49] WindowsClient, [000002538A7F6B00][000002538B60D9C0 49] IOS, [000002538A79F500][000002538B611B40 49] iPadAir, [000002538A7F4E00][000002538B614140 49] iPadAir2, [000002538A749300][000002538B61C400 49] IPadPro, [000002538A749400][000002538B618440 49] iPadAir3, [000002538A79F300][000002538B6305C0 49] iPadAir4, [000002538A74A200][000002538B634740 49] iPadMini2, [000002538A79EC00][000002538B6388C0 49] iPadMini3, [000002538A74AE00][000002538B5FCA00 49] iPadMini4, [000002538A79E300][000002538B63CB40 49] iPadMini5, [000002538A764E00][000002538B644D80 49] iPhone6, [000002538A764F00][000002538B640DC0 49] iPodTouch6, [000002538A7F4300][000002538B651080 49] iPhone7, [000002538A7F5900][000002538B64D0C0 49] iPodTouch7, [000002538A74B300][000002538B655240 49] iPhone5S, [000002538A7F6A00][000002538B6593C0 49] iPhone6Plus, [000002538A7F6F00][000002538B65D540 49] iPhone6S, [000002538A764700][000002538B6616C0 49] iPhone6SPlus, [000002538A7F6600][000002538B665840 49] iPhone7Plus, [000002538A767000][000002538B6699C0 49] iPhoneSE, [000002538A7F4F00][000002538B66DB40 49] iPhone8, [000002538A765400][000002538B670140 49] iPhone8Plus, [000002538A749900][000002538B6742C0 49] iPhoneX, [000002538A764D00][000002538B678440 49] iPhoneXS, [000002538A749C00][000002538B67C5C0 49] iPhoneXSMax, [000002538A767600][000002538B680740 49] iPhoneXR, [000002538A748300][000002538B6848C0 49] iPhone11, [000002538A766000][000002538B688A40 49] iPhone11Pro, [000002538A74A800][000002538B648B80 49] iPhone11ProMax, [000002538A767100][000002538B68CCC0 49] iPhoneSE2, [000002538A748B00][000002538B690E00 49] iPhone12Mini, [000002538A766700][000002538B694F40 49] iPhone12, [000002538A749100][000002538B69D0C0 49] iPhone12Pro, [000002538A764400][000002538B6A1240 49] iPhone12ProMax, [000002538A749700][000002538B6A53C0 49] iPadPro105, [000002538A765200][000002538B6A9540 49] iPadPro129, [000002538A74B000][000002538B6AD6C0 49] iPadPro97, [000002538A765300][000002538B6B1840 49] iPadPro2_129, [000002538A74A900][000002538B6B59C0 49] iPad5, [000002538A764C00][000002538B6B9B40 49] iPad6, [000002538A74AD00][000002538B6BC140 49] iPad7, [000002538A767C00][000002538B6C02C0 49] iPad8, [000002538A74A700][000002538B6C4440 49] iPadPro11, [000002538A765D00][000002538B6C85C0 49] iPadPro2_11, [000002538A748D00][000002538B6CC740 49] iPadPro3_129, [000002538A766E00][000002538B6D08C0 49] iPadPro4_129, [000002538A74AC00][000002538B6D4A40 49] AppleTV, [000002538A766D00][000002538B6D8BC0 49] AppleTV4K, [000002538A74A600][000002538B6DCD40 49] TVOS, [000002538A764100][000002538B698E80 49] Mac, [000002538A74A500][000002538B6E0FC0 49] MacClient, [000002538A764200][000002538B6E5100 49] MacNoEditor, [000002538A749000][000002538B6ED280 49] MacServer, [000002538A765500][000002538B6F1400 49] Linux, [000002538A748C00][000002538B6F5580 49] LinuxAArch64, [000002538A765600][000002538B6F9700 49] LinuxNoEditor, [000002538A74B500][000002538B6FD880 49] LinuxAArch64NoEditor, [000002538A765100][000002538B701A00 49] LinuxClient, [000002538A748F00][000002538B705B80 49] LinuxAArch64Client, [000002538A764500][000002538B708180 49] LinuxServer, [000002538A74AB00][000002538B70C300 49] LinuxAArch64Server, [000002538A764800][000002538B710480 49] Android, [000002538A748500][000002538B714600 49] Android_Low, [000002538A766F00][000002538B718780 49] Android_Mid, [000002538A74BB00][000002538B71C900 49] Android_High, [000002538A766200][000002538B720A80 49] Android_Default, [000002538A74BA00][000002538B724C00 49] Android_Adreno4xx, [000002538A767A00][000002538B728D80 49] Android_Adreno5xx_Low, [000002538A74A100][000002538B72CF00 49] Android_Adreno5xx, [000002538A767200][000002538B6E9040 49] Android_Adreno6xx, [000002538A749500][000002538B731180 49] Android_Adreno6xx_Vulkan, [000002538A767500][000002538B7352C0 49] Android_Mali_T6xx, [000002538A748100][000002538B73D440 49] Android_Mali_T7xx, [000002538A764A00][000002538B7415C0 49] Android_Mali_T8xx, [000002538A74B600][000002538B745740 49] Android_Mali_G71, [000002538A7F4700][000002538B7498C0 49] Android_Mali_G72, [000002538A79F900][000002538B74DA40 49] Android_Mali_G72_Vulkan, [000002538A7F5A00][000002538B751BC0 49] Android_Mali_G76, [000002538A79EB00][000002538B7541C0 49] Android_Mali_G76_Vulkan, [000002538A7F6000][000002538B758340 49] Android_Mali_G77, [000002538A79EF00][000002538B75C4C0 49] Android_Mali_G77_Vulkan, [000002538A7F7C00][000002538B760640 49] Android_Mali_G78, [000002538A79C500][000002538B7647C0 49] Android_Mali_G78_Vulkan, [000002538A7F6800][000002538B768940 49] Android_Mali_G710, [000002538A79FF00][000002538B76CAC0 49] Android_Mali_G710_Vulkan, [000002538A7F6300][000002538B770C40 49] Android_Vulkan_SM5, [000002538A79E700][000002538B774DC0 49] Android_PowerVR_G6xxx, [000002538A7F4B00][000002538B778F40 49] Android_PowerVR_GT7xxx, [000002538A79E500][000002538B77D0C0 49] Android_PowerVR_GE8xxx, [000002538A7F5200][000002538B739200 49] Android_PowerVR_GM9xxx, [000002538A79C200][000002538B781340 49] Android_PowerVR_GM9xxx_Vulkan, [000002538A7F6700][000002538B785480 49] Android_TegraK1, [000002538A79F200][000002538B7895C0 49] Android_Unknown_Vulkan, [000002538A7F7800][000002538B791740 49] Lumin, [000002538A79F000][000002538B7958C0 49] Lumin_Desktop, [000002538A7F6200][000002538B799A40 49] HoloLens, 
+[2026.08.23-20.45.13:225][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2026.08.23-20.45.13:225][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2026.08.23-20.45.13:225][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2026.08.23-20.45.13:225][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2026.08.23-20.45.13:225][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2026.08.23-20.45.13:300][  0]LogNetVersion: BrackeysJam2026 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1239153582)
+[2026.08.23-20.45.17:128][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2026.08.23-20.45.17:223][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2026.08.23-20.45.17:228][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2026.08.23-20.45.17:228][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2026.08.23-20.45.17:228][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.08.23-20.45.18:563][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: AB9681634CDB6DEB97A91EB8CC549AC0 | Instance: 61B7B57541AC7C042B9ED1B4C4362B61 (SEBASTIANGMRPC-708).
+[2026.08.23-20.45.18:805][  0]LogPython: Using Python 3.7.7
+[2026.08.23-20.45.19:292][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2026.08.23-20.45.19:310][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2026.08.23-20.45.20:100][  0]SourceControl: Source control is disabled
+[2026.08.23-20.45.20:100][  0]SourceControl: Source control is disabled
+[2026.08.23-20.45.20:341][  0]SourceControl: Source control is disabled
+[2026.08.23-20.45.20:361][  0]SourceControl: Source control is disabled
+[2026.08.23-20.45.20:391][  0]SourceControl: Source control is disabled
+[2026.08.23-20.45.20:437][  0]LogUProjectInfo: Found projects:
+[2026.08.23-20.45.20:816][  0]LogOpenImageDenoise: OIDN starting up
+[2026.08.23-20.45.20:855][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2026.08.23-20.45.20:892][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.08.23-20.45.20:892][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.08.23-20.45.21:442][  0]LogCollectionManager: Loaded 0 collections in 0.000686 seconds
+[2026.08.23-20.45.21:492][  0]LogFileCache: Scanning file cache for directory 'D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Saved/Collections/' took 0.00s
+[2026.08.23-20.45.21:492][  0]LogFileCache: Scanning file cache for directory 'D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Content/Developers/sebas/Collections/' took 0.00s
+[2026.08.23-20.45.21:492][  0]LogFileCache: Scanning file cache for directory 'D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Content/Collections/' took 0.00s
+[2026.08.23-20.45.21:505][  0]LogOcInput: OculusInput pre-init called
+[2026.08.23-20.45.21:886][  0]LogEngine: Initializing Engine...
+[2026.08.23-20.45.21:890][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2026.08.23-20.45.21:890][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2026.08.23-20.45.21:890][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2026.08.23-20.45.21:891][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2026.08.23-20.45.22:146][  0]LogInit: Initializing FReadOnlyCVARCache
+[2026.08.23-20.45.22:175][  0]LogAIModule: Creating AISystem for world Untitled
+[2026.08.23-20.45.22:176][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.08.23-20.45.22:195][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.08.23-20.45.22:196][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.08.23-20.45.22:196][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.08.23-20.45.22:196][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.08.23-20.45.22:197][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.23-20.45.22:197][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.23-20.45.22:197][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.23-20.45.22:197][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.23-20.45.22:197][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.08.23-20.45.22:197][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.23-20.45.22:197][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.08.23-20.45.22:197][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.23-20.45.22:197][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.23-20.45.22:197][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.23-20.45.22:197][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.23-20.45.22:197][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2026.08.23-20.45.22:212][  0]LogAudioMixer: Display: 0: FrontLeft
+[2026.08.23-20.45.22:212][  0]LogAudioMixer: Display: 1: FrontRight
+[2026.08.23-20.45.22:234][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.08.23-20.45.22:234][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.23-20.45.22:250][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.23-20.45.22:250][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.23-20.45.22:251][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.08.23-20.45.22:251][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.08.23-20.45.22:251][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.08.23-20.45.22:252][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.08.23-20.45.22:252][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.08.23-20.45.22:252][  0]LogInit: FAudioDevice initialized.
+[2026.08.23-20.45.22:252][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.08.23-20.45.22:252][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.08.23-20.45.22:335][  0]LogDerivedDataCache: Saved boot cache 0.08s 94MB C:/Users/sebas/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2026.08.23-20.45.22:335][  0]LogInit: Texture streaming: Enabled
+[2026.08.23-20.45.22:376][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2026.08.23-20.45.22:384][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2026.08.23-20.45.22:384][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2026.08.23-20.45.22:386][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2026.08.23-20.45.22:451][  0]LogInit: Transaction tracking system initialized
+[2026.08.23-20.45.22:562][  0]BlueprintLog: New page: Editor Load
+[2026.08.23-20.45.22:766][  0]LocalizationService: Localization service is disabled
+[2026.08.23-20.45.22:853][  0]TimingProfiler: Initialize
+[2026.08.23-20.45.22:853][  0]TimingProfiler: OnSessionChanged
+[2026.08.23-20.45.22:853][  0]LoadingProfiler: Initialize
+[2026.08.23-20.45.22:853][  0]LoadingProfiler: OnSessionChanged
+[2026.08.23-20.45.22:853][  0]NetworkingProfiler: Initialize
+[2026.08.23-20.45.22:853][  0]NetworkingProfiler: OnSessionChanged
+[2026.08.23-20.45.22:853][  0]MemoryProfiler: Initialize
+[2026.08.23-20.45.22:853][  0]MemoryProfiler: OnSessionChanged
+[2026.08.23-20.45.23:329][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2026.08.23-20.45.23:329][  0]LogCook: Display: Mobile HDR setting 1
+[2026.08.23-20.45.23:783][  0]LogFileCache: Scanning file cache for directory 'D:/GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Content/' took 0.00s
+[2026.08.23-20.45.24:141][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.08.23-20.45.24:154][  0]SourceControl: Source control is disabled
+[2026.08.23-20.45.24:154][  0]LogUnrealEdMisc: Loading editor; pre map load, took 22.314
+[2026.08.23-20.45.24:154][  0]Cmd: MAP LOAD FILE="../../../../../GameProgramming/BrackeysGameJam/Brackeys-2026/BrackeysJam2026/Content/Brackeys2026/Levels/Brackeys2026Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.08.23-20.45.24:155][  0]LightingResults: New page: Lighting Build
+[2026.08.23-20.45.24:159][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.08.23-20.45.24:160][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.23-20.45.24:160][  0]MapCheck: New page: Map Check
+[2026.08.23-20.45.24:160][  0]LightingResults: New page: Lighting Build
+[2026.08.23-20.45.24:164][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.08.23-20.45.24:167][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.08.23-20.45.24:348][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Brackeys2026Map'.
+[2026.08.23-20.45.24:349][  0]LogAIModule: Creating AISystem for world Brackeys2026Map
+[2026.08.23-20.45.24:358][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.08.23-20.45.24:367][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.08.23-20.45.24:367][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.08.23-20.45.24:367][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2026.08.23-20.45.24:367][  0]LogFileHelpers: Loading map 'Brackeys2026Map' took 0.213
+[2026.08.23-20.45.24:369][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.529
+[2026.08.23-20.45.24:477][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.23-20.45.24:482][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.23-20.45.24:487][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.23-20.45.24:491][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.23-20.45.24:510][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3822 classes and 928 folders.
+[2026.08.23-20.45.24:528][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2026.08.23-20.45.24:538][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2026.08.23-20.45.24:538][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:538][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.08.23-20.45.24:538][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:538][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2026.08.23-20.45.24:538][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2026.08.23-20.45.24:548][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2026.08.23-20.45.24:548][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:548][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2026.08.23-20.45.24:548][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:548][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2026.08.23-20.45.24:548][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2026.08.23-20.45.24:561][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2026.08.23-20.45.24:561][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:561][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2026.08.23-20.45.24:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2026.08.23-20.45.24:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2026.08.23-20.45.24:569][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.08.23-20.45.24:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.08.23-20.45.24:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/StarterContent.upack)
+[2026.08.23-20.45.24:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2026.08.23-20.45.24:581][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2026.08.23-20.45.24:581][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:581][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2026.08.23-20.45.24:581][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:581][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2026.08.23-20.45.24:581][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2026.08.23-20.45.24:592][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2026.08.23-20.45.24:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:593][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2026.08.23-20.45.24:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2026.08.23-20.45.24:593][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2026.08.23-20.45.24:598][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2026.08.23-20.45.24:598][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:598][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2026.08.23-20.45.24:598][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:598][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2026.08.23-20.45.24:598][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2026.08.23-20.45.24:612][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2026.08.23-20.45.24:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2026.08.23-20.45.24:612][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:612][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2026.08.23-20.45.24:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2026.08.23-20.45.24:616][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2026.08.23-20.45.24:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2026.08.23-20.45.24:616][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:616][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2026.08.23-20.45.24:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2026.08.23-20.45.24:675][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2026.08.23-20.45.24:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2026.08.23-20.45.24:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2026.08.23-20.45.24:675][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2026.08.23-20.45.24:680][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2026.08.23-20.45.24:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2026.08.23-20.45.24:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:680][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2026.08.23-20.45.24:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2026.08.23-20.45.24:692][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2026.08.23-20.45.24:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2026.08.23-20.45.24:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2026.08.23-20.45.24:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2026.08.23-20.45.24:704][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.08.23-20.45.24:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.08.23-20.45.24:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2026.08.23-20.45.24:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2026.08.23-20.45.24:715][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2026.08.23-20.45.24:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2026.08.23-20.45.24:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2026.08.23-20.45.24:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2026.08.23-20.45.24:725][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2026.08.23-20.45.24:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2026.08.23-20.45.24:725][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:725][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2026.08.23-20.45.24:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2026.08.23-20.45.24:737][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2026.08.23-20.45.24:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.08.23-20.45.24:737][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:737][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2026.08.23-20.45.24:737][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2026.08.23-20.45.24:739][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2026.08.23-20.45.24:739][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:739][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2026.08.23-20.45.24:739][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:739][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2026.08.23-20.45.24:739][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2026.08.23-20.45.24:751][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2026.08.23-20.45.24:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2026.08.23-20.45.24:751][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:751][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2026.08.23-20.45.24:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2026.08.23-20.45.24:760][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.08.23-20.45.24:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.08.23-20.45.24:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:760][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2026.08.23-20.45.24:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2026.08.23-20.45.24:772][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.08.23-20.45.24:772][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:772][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.08.23-20.45.24:772][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:772][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2026.08.23-20.45.24:772][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2026.08.23-20.45.24:778][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2026.08.23-20.45.24:778][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:778][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2026.08.23-20.45.24:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2026.08.23-20.45.24:778][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2026.08.23-20.45.24:790][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2026.08.23-20.45.24:790][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2026.08.23-20.45.24:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2026.08.23-20.45.24:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2026.08.23-20.45.24:806][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2026.08.23-20.45.24:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2026.08.23-20.45.24:806][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:806][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2026.08.23-20.45.24:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2026.08.23-20.45.24:822][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2026.08.23-20.45.24:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2026.08.23-20.45.24:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2026.08.23-20.45.24:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2026.08.23-20.45.24:824][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2026.08.23-20.45.24:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2026.08.23-20.45.24:824][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:824][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2026.08.23-20.45.24:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2026.08.23-20.45.24:836][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2026.08.23-20.45.24:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2026.08.23-20.45.24:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2026.08.23-20.45.24:836][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.08.23-20.45.24:836][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UnrealEngine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2026.08.23-20.45.24:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2026.08.23-20.45.25:151][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2026.08.23-20.45.25:155][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2026.08.23-20.45.25:198][  0]LogSlate: Took 0.010614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.08.23-20.45.25:207][  0]LogSlate: Took 0.008254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.08.23-20.45.25:214][  0]LogSlate: Took 0.005689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.08.23-20.45.25:291][  0]LogRenderer: Reallocating scene render targets to support 1180x604 Format 10 NumSamples 1 (Frame:1).
+[2026.08.23-20.45.25:329][  0]LogSlate: Took 0.005836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.08.23-20.45.25:401][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2026.08.23-20.45.25:401][  0]LogLoad: (Engine Initialization) Total time: 23.56 seconds
+[2026.08.23-20.45.25:401][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2026.08.23-20.45.25:438][  0]LogAssetRegistry: Asset discovery search completed in 12.8862 seconds
+[2026.08.23-20.45.25:446][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2026.08.23-20.45.25:448][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2026.08.23-20.45.26:437][102]LogSlate: Took 0.000509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.08.23-20.47.58:045][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2026.08.23-20.47.58:049][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.23-20.47.58:049][ 58]PIE: New page: PIE session: Brackeys2026Map (23 ago. 2026 14:47:58)
+[2026.08.23-20.47.58:050][ 58]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2026.08.23-20.47.58:052][ 58]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2026.08.23-20.47.58:052][ 58]LogPlayLevel: Creating play world package: /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map
+[2026.08.23-20.47.58:055][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002561s)
+[2026.08.23-20.47.58:055][ 58]LogAIModule: Creating AISystem for world Brackeys2026Map
+[2026.08.23-20.47.58:056][ 58]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2026.08.23-20.47.58:056][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Brackeys2026/Levels/Brackeys2026Map.Brackeys2026Map to /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map.Brackeys2026Map (0.003709s)
+[2026.08.23-20.47.58:060][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.08.23-20.47.58:061][ 58]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.08.23-20.47.58:061][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.23-20.47.58:061][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.23-20.47.58:061][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.23-20.47.58:061][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.23-20.47.58:061][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.08.23-20.47.58:061][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.23-20.47.58:061][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.08.23-20.47.58:061][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.23-20.47.58:061][ 58]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.23-20.47.58:061][ 58]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.23-20.47.58:061][ 58]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.23-20.47.58:061][ 58]LogAudioMixer: Display: Initializing audio mixer.
+[2026.08.23-20.47.58:065][ 58]LogAudioMixer: Display: 0: FrontLeft
+[2026.08.23-20.47.58:065][ 58]LogAudioMixer: Display: 1: FrontRight
+[2026.08.23-20.47.58:081][ 58]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.08.23-20.47.58:081][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.23-20.47.58:081][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.23-20.47.58:081][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.23-20.47.58:082][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.08.23-20.47.58:082][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.08.23-20.47.58:082][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.08.23-20.47.58:082][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.08.23-20.47.58:082][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.08.23-20.47.58:082][ 58]LogInit: FAudioDevice initialized.
+[2026.08.23-20.47.58:082][ 58]LogAudio: Display: Audio Device (ID: 2) registered with world 'Brackeys2026Map'.
+[2026.08.23-20.47.58:162][ 58]LogLoad: Game class is 'BrackeysGameMode_C'
+[2026.08.23-20.47.58:164][ 58]LogWorld: Bringing World /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map.Brackeys2026Map up for play (max tick rate 0) at 2026.08.23-17.47.58
+[2026.08.23-20.47.58:164][ 58]LogWorld: Bringing up level for play took: 0.000523
+[2026.08.23-20.47.58:164][ 58]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2026.08.23-20.47.58:167][ 58]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2026.08.23-20.47.58:169][ 58]PIE: Server logged in
+[2026.08.23-20.47.58:170][ 58]PIE: Play in editor total start time 0.122 seconds.
+[2026.08.23-20.47.59:994][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.23-20.47.59:994][246]LogWorld: BeginTearingDown for /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map
+[2026.08.23-20.47.59:994][246]LogWorld: UWorld::CleanupWorld for Brackeys2026Map, bSessionEnded=true, bCleanupResources=true
+[2026.08.23-20.47.59:994][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.23-20.48.00:007][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.23-20.48.00:009][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.23-20.48.00:012][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.08.23-20.48.00:012][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.08.23-20.48.00:013][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.08.23-20.48.00:014][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.23-20.48.00:016][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.08.23-20.48.00:078][250]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2026.08.23-20.49.35:871][460]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.08.23-20.49.35:889][460]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.08.23-20.49.39:162][836]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Brackeys2026/Levels/Brackeys2026Map.Brackeys2026Map:PersistentLevel.Brackeys2026Map
+[2026.08.23-20.49.39:353][836]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2026.08.23-20.49.39:992][836]LogSlate: Took 0.010344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.08.23-20.49.58:849][322]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2026.08.23-20.49.58:849][322]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2026.08.23-20.49.58:849][322]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2026.08.23-20.49.58:850][322]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2026.08.23-20.50.07:554][981]LogUObjectGlobals: Warning: Failed to find object 'Object None.MyBlueprintPanel'
+[2026.08.23-20.50.07:554][981]LogUObjectGlobals: Warning: Failed to find object 'Object None.MyBlueprintPanel'
+[2026.08.23-20.50.10:079][182]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2026.08.23-20.50.10:080][182]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2026.08.23-20.50.38:599][392]LogSlate: Window 'Tutorials' being destroyed
+[2026.08.23-20.50.38:607][392]LogSlate: Window 'Tutorials' being destroyed
+[2026.08.23-20.51.04:685][546]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2026.08.23-20.51.05:153][547]LogSlate: Took 0.005444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.08.23-20.51.29:905][430]LogTemp: Repeating last play command: Selected Viewport
+[2026.08.23-20.51.29:910][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.23-20.51.29:910][430]PIE: New page: PIE session: Brackeys2026Map (23 ago. 2026 14:51:29)
+[2026.08.23-20.51.29:910][430]LogPlayLevel: Creating play world package: /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map
+[2026.08.23-20.51.29:917][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006740s)
+[2026.08.23-20.51.29:918][430]LogAIModule: Creating AISystem for world Brackeys2026Map
+[2026.08.23-20.51.29:918][430]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2026.08.23-20.51.29:918][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Brackeys2026/Levels/Brackeys2026Map.Brackeys2026Map to /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map.Brackeys2026Map (0.007853s)
+[2026.08.23-20.51.29:944][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.08.23-20.51.29:945][430]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.08.23-20.51.29:945][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.23-20.51.29:945][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.23-20.51.29:945][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.23-20.51.29:945][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.23-20.51.29:945][430]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.08.23-20.51.29:945][430]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.23-20.51.29:945][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.08.23-20.51.29:945][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.23-20.51.29:945][430]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.23-20.51.29:945][430]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.23-20.51.29:945][430]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.23-20.51.29:945][430]LogAudioMixer: Display: Initializing audio mixer.
+[2026.08.23-20.51.29:949][430]LogAudioMixer: Display: 0: FrontLeft
+[2026.08.23-20.51.29:949][430]LogAudioMixer: Display: 1: FrontRight
+[2026.08.23-20.51.29:964][430]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.08.23-20.51.29:965][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.23-20.51.29:965][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.23-20.51.29:965][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.23-20.51.29:965][430]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.08.23-20.51.29:965][430]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.08.23-20.51.29:965][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.08.23-20.51.29:966][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.08.23-20.51.29:966][430]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.08.23-20.51.29:966][430]LogInit: FAudioDevice initialized.
+[2026.08.23-20.51.29:966][430]LogAudio: Display: Audio Device (ID: 3) registered with world 'Brackeys2026Map'.
+[2026.08.23-20.51.29:976][430]LogLoad: Game class is 'BrackeysGameMode_C'
+[2026.08.23-20.51.29:977][430]LogWorld: Bringing World /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map.Brackeys2026Map up for play (max tick rate 0) at 2026.08.23-17.51.29
+[2026.08.23-20.51.29:977][430]LogWorld: Bringing up level for play took: 0.000566
+[2026.08.23-20.51.29:978][430]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2026.08.23-20.51.29:984][430]PIE: Server logged in
+[2026.08.23-20.51.29:986][430]PIE: Play in editor total start time 0.076 seconds.
+[2026.08.23-20.52.08:004][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.23-20.52.08:004][580]LogWorld: BeginTearingDown for /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map
+[2026.08.23-20.52.08:004][580]LogWorld: UWorld::CleanupWorld for Brackeys2026Map, bSessionEnded=true, bCleanupResources=true
+[2026.08.23-20.52.08:004][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.23-20.52.08:016][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.23-20.52.08:019][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.23-20.52.08:037][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.08.23-20.52.08:037][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.08.23-20.52.08:038][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.08.23-20.52.08:039][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.23-20.52.08:041][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.08.23-20.52.08:096][582]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.08.23-20.52.21:224][588]LogTemp: Repeating last play command: Selected Viewport
+[2026.08.23-20.52.21:230][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.23-20.52.21:230][588]PIE: New page: PIE session: Brackeys2026Map (23 ago. 2026 14:52:21)
+[2026.08.23-20.52.21:252][588]LogPlayLevel: Creating play world package: /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map
+[2026.08.23-20.52.21:255][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002110s)
+[2026.08.23-20.52.21:255][588]LogAIModule: Creating AISystem for world Brackeys2026Map
+[2026.08.23-20.52.21:256][588]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2026.08.23-20.52.21:256][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Brackeys2026/Levels/Brackeys2026Map.Brackeys2026Map to /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map.Brackeys2026Map (0.003149s)
+[2026.08.23-20.52.21:283][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.08.23-20.52.21:283][588]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.08.23-20.52.21:283][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.23-20.52.21:283][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.23-20.52.21:283][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.23-20.52.21:283][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.23-20.52.21:283][588]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.08.23-20.52.21:283][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.23-20.52.21:283][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.08.23-20.52.21:283][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.23-20.52.21:284][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.23-20.52.21:284][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.23-20.52.21:284][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.23-20.52.21:284][588]LogAudioMixer: Display: Initializing audio mixer.
+[2026.08.23-20.52.21:287][588]LogAudioMixer: Display: 0: FrontLeft
+[2026.08.23-20.52.21:287][588]LogAudioMixer: Display: 1: FrontRight
+[2026.08.23-20.52.21:302][588]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.08.23-20.52.21:302][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.23-20.52.21:302][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.23-20.52.21:302][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.23-20.52.21:302][588]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.08.23-20.52.21:303][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.08.23-20.52.21:303][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.08.23-20.52.21:303][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.08.23-20.52.21:303][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.08.23-20.52.21:303][588]LogInit: FAudioDevice initialized.
+[2026.08.23-20.52.21:303][588]LogAudio: Display: Audio Device (ID: 4) registered with world 'Brackeys2026Map'.
+[2026.08.23-20.52.21:313][588]LogLoad: Game class is 'BrackeysGameMode_C'
+[2026.08.23-20.52.21:313][588]LogWorld: Bringing World /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map.Brackeys2026Map up for play (max tick rate 0) at 2026.08.23-17.52.21
+[2026.08.23-20.52.21:314][588]LogWorld: Bringing up level for play took: 0.000449
+[2026.08.23-20.52.21:314][588]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2026.08.23-20.52.21:317][588]PIE: Server logged in
+[2026.08.23-20.52.21:318][588]PIE: Play in editor total start time 0.088 seconds.
+[2026.08.23-20.52.46:974][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.23-20.52.46:974][802]LogWorld: BeginTearingDown for /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map
+[2026.08.23-20.52.46:974][802]LogWorld: UWorld::CleanupWorld for Brackeys2026Map, bSessionEnded=true, bCleanupResources=true
+[2026.08.23-20.52.46:974][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.23-20.52.46:984][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.08.23-20.52.46:987][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.23-20.52.47:004][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.08.23-20.52.47:004][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.08.23-20.52.47:005][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2026.08.23-20.52.47:010][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.08.23-20.52.47:056][804]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.08.23-20.52.50:420][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2026.08.23-20.52.50:425][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.08.23-20.52.50:425][ 80]PIE: New page: PIE session: Brackeys2026Map (23 ago. 2026 14:52:50)
+[2026.08.23-20.52.50:463][ 80]LogPlayLevel: Creating play world package: /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map
+[2026.08.23-20.52.50:465][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002151s)
+[2026.08.23-20.52.50:465][ 80]LogAIModule: Creating AISystem for world Brackeys2026Map
+[2026.08.23-20.52.50:466][ 80]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2026.08.23-20.52.50:466][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Brackeys2026/Levels/Brackeys2026Map.Brackeys2026Map to /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map.Brackeys2026Map (0.003152s)
+[2026.08.23-20.52.50:484][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.08.23-20.52.50:485][ 80]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.08.23-20.52.50:485][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.08.23-20.52.50:485][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.08.23-20.52.50:485][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.08.23-20.52.50:485][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.08.23-20.52.50:485][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.08.23-20.52.50:485][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.08.23-20.52.50:485][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.08.23-20.52.50:485][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.08.23-20.52.50:485][ 80]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.08.23-20.52.50:485][ 80]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.08.23-20.52.50:485][ 80]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.08.23-20.52.50:485][ 80]LogAudioMixer: Display: Initializing audio mixer.
+[2026.08.23-20.52.50:489][ 80]LogAudioMixer: Display: 0: FrontLeft
+[2026.08.23-20.52.50:489][ 80]LogAudioMixer: Display: 1: FrontRight
+[2026.08.23-20.52.50:504][ 80]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2026.08.23-20.52.50:504][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.08.23-20.52.50:504][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.08.23-20.52.50:504][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.08.23-20.52.50:505][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.08.23-20.52.50:505][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2026.08.23-20.52.50:505][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.08.23-20.52.50:507][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.08.23-20.52.50:507][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.08.23-20.52.50:507][ 80]LogInit: FAudioDevice initialized.
+[2026.08.23-20.52.50:507][ 80]LogAudio: Display: Audio Device (ID: 5) registered with world 'Brackeys2026Map'.
+[2026.08.23-20.52.50:517][ 80]LogLoad: Game class is 'BrackeysGameMode_C'
+[2026.08.23-20.52.50:518][ 80]LogWorld: Bringing World /Game/Brackeys2026/Levels/UEDPIE_0_Brackeys2026Map.Brackeys2026Map up for play (max tick rate 0) at 2026.08.23-17.52.50
+[2026.08.23-20.52.50:518][ 80]LogWorld: Bringing up level for play took: 0.000512
+[2026.08.23-20.52.50:518][ 80]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2026.08.23-20.52.50:522][ 80]PIE: Server logged in
+[2026.08.23-20.52.50:522][ 80]PIE: Play in editor total start time 0.098 seconds.

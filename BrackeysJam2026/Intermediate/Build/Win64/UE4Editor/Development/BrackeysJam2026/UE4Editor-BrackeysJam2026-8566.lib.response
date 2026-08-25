@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BrackeysJam2026-8566.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\BrackeysJam2026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\FP_FirstPersonCharacter.cpp.obj"
+"E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\FP_FirstPersonGameMode.cpp.obj"
+"E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\FP_FirstPersonHUD.cpp.obj"
+"E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\BrackeysJam2026.cpp.obj"
+"E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\BrackeysJam2026.init.gen.cpp.obj"
+"E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\FP_FirstPersonCharacter.gen.cpp.obj"
+"E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\FP_FirstPersonGameMode.gen.cpp.obj"
+"E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\FP_FirstPersonHUD.gen.cpp.obj"
+"E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\Default.rc2.res"
+/OUT:"E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\UE4Editor-BrackeysJam2026-8566.lib"

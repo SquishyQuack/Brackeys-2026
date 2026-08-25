@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BrackeysJam2026.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3B253F51-FF0E-4EAB-801E-DD5ECD8BFEB2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BrackeysJam2026.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BrackeysJam2026Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D2F09D6D-E877-49BD-8ED9-57A2718DA27C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BrackeysJam2026">
+      <UniqueIdentifier>{A1A9E32B-1E8C-4155-81EE-BCE76465619F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BrackeysJam2026\BrackeysJam2026.Build.cs">
+      <Filter>Source\BrackeysJam2026</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BrackeysJam2026\BrackeysJam2026.cpp">
+      <Filter>Source\BrackeysJam2026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrackeysJam2026\BrackeysJam2026.h">
+      <Filter>Source\BrackeysJam2026</Filter>
+    </ClInclude>
+    <Filter Include="Source\BrackeysJam2026\FP_FirstPerson">
+      <UniqueIdentifier>{F92F7DB0-201C-4106-945D-6C92BE6E6BAA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\BrackeysJam2026\FP_FirstPerson\FP_FirstPerson.h">
+      <Filter>Source\BrackeysJam2026\FP_FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrackeysJam2026\FP_FirstPerson\FP_FirstPersonCharacter.cpp">
+      <Filter>Source\BrackeysJam2026\FP_FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrackeysJam2026\FP_FirstPerson\FP_FirstPersonCharacter.h">
+      <Filter>Source\BrackeysJam2026\FP_FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrackeysJam2026\FP_FirstPerson\FP_FirstPersonGameMode.cpp">
+      <Filter>Source\BrackeysJam2026\FP_FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrackeysJam2026\FP_FirstPerson\FP_FirstPersonGameMode.h">
+      <Filter>Source\BrackeysJam2026\FP_FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BrackeysJam2026\FP_FirstPerson\FP_FirstPersonHUD.cpp">
+      <Filter>Source\BrackeysJam2026\FP_FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BrackeysJam2026\FP_FirstPerson\FP_FirstPersonHUD.h">
+      <Filter>Source\BrackeysJam2026\FP_FirstPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

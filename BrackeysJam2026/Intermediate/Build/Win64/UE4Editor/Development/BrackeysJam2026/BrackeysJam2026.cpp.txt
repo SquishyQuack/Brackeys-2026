@@ -1,2 +1,0 @@
-E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\Definitions.BrackeysJam2026.h
-E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Source\BrackeysJam2026\BrackeysJam2026.h

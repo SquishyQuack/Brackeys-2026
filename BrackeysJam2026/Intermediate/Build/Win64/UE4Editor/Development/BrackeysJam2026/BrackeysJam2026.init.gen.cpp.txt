@@ -1,3 +1,0 @@
-E:\_Alex's Data\Unreal Engine\Unreal Projects\Brackeys2026\Brackeys-2026\BrackeysJam2026\Intermediate\Build\Win64\UE4Editor\Development\BrackeysJam2026\Definitions.BrackeysJam2026.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

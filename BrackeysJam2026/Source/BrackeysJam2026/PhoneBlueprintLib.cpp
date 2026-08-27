@@ -30,7 +30,7 @@ int UPhoneBlueprintLib::GetTotalLiveBullets(TArray<bool> BulletsChamber)
 	return liveBulletsCounter;
 }
 
-FString UPhoneBlueprintLib::GetHint3(bool canCall, const int& totalLiveBullets)
+FString UPhoneBlueprintLib::GetHint(bool canCall, const int& totalLiveBullets)
 {
 	if (!canCall)
 		return FString("You can't call right now");
@@ -84,6 +84,12 @@ bool UPhoneBlueprintLib::CallForHint(bool& canCall)
 	FString call = canCall ? "True" : "False";
 	GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, call);
 
+	return canCall;
+}
+
+bool UPhoneBlueprintLib::TurnOffOnCall(bool& canCall)
+{
+	canCall = !canCall;
 	return canCall;
 }
 

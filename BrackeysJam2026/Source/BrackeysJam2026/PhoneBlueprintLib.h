@@ -21,7 +21,7 @@ class BRACKEYSJAM2026_API UPhoneBlueprintLib : public UBlueprintFunctionLibrary
 	static int GetTotalLiveBullets(TArray<bool> BulletsChamber);
 
 	UFUNCTION(BlueprintCallable, Category = "UPhoneBlueprintLib")
-	static FString GetHint3(bool canCall, const int& totalLiveBullets);
+	static FString GetHint(bool canCall, const int& totalLiveBullets);
 
 	UFUNCTION(BlueprintCallable, Category = "UPhoneBlueprintLib")
 	static bool IsLiveBullet(bool chamber);
@@ -34,5 +34,8 @@ class BRACKEYSJAM2026_API UPhoneBlueprintLib : public UBlueprintFunctionLibrary
 
 	UFUNCTION(BlueprintCallable, Category = "UPhoneBlueprintLib")
 	static bool CallForHint(bool& canCall);
+
+	UFUNCTION(BlueprintCallable, Category = "UPhoneBlueprintLib")
+	static bool TurnOffOnCall(bool& canCall);
 
 };

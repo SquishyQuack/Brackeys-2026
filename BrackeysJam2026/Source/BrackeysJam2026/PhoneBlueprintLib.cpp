@@ -30,7 +30,7 @@ int UPhoneBlueprintLib::GetTotalLiveBullets(TArray<bool> BulletsChamber)
 	return liveBulletsCounter;
 }
 
-FString UPhoneBlueprintLib::GetHint3(bool& canCall, const int& totalLiveBullets)
+FString UPhoneBlueprintLib::GetHint3(bool canCall, const int& totalLiveBullets)
 {
 	if (!canCall)
 		return FString("You can't call right now");

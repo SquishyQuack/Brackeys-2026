@@ -67,9 +67,14 @@ bool UPhoneBlueprintLib::IsLiveBullet(bool chamber)
 	return chamber == true;
 }
 
-bool UPhoneBlueprintLib::IsLiveBulletFromArray(TArray<bool> BulletsChamber)
+bool UPhoneBlueprintLib::IsLiveFirstBulletFromArray(TArray<bool> BulletsChamber)
 {
-	return BulletsChamber[0] == true;
+	if (BulletsChamber.Num() == 0)
+	{
+		return false;
+	}
+
+	return BulletsChamber[0];
 }
 
 bool UPhoneBlueprintLib::IsPhoneCallable(const bool& canCall)
@@ -90,7 +95,22 @@ bool UPhoneBlueprintLib::CallForHint(bool& canCall)
 bool UPhoneBlueprintLib::TurnOffOnCall(bool& canCall)
 {
 	canCall = !canCall;
+
 	return canCall;
+}
+
+void UPhoneBlueprintLib::SetActorCollisionToFalse(AActor* actor, const bool& canCall)
+{
+	if (canCall)
+	{
+		return;
+	}
+	actor->SetActorEnableCollision(false);
+	
+	bool isCollision = actor->GetActorEnableCollision();
+	FString collision = isCollision ? "True" : "False";
+	GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, collision);
+	GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Green, "SetActorCollisionToFalse()");
 }
 
 

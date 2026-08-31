@@ -27,7 +27,7 @@ class BRACKEYSJAM2026_API UPhoneBlueprintLib : public UBlueprintFunctionLibrary
 	static bool IsLiveBullet(bool chamber);
 	
 	UFUNCTION(BlueprintCallable, Category = "UPhoneBlueprintLib")
-	static bool IsLiveBulletFromArray(TArray<bool> BulletsChamber);
+	static bool IsLiveFirstBulletFromArray(TArray<bool> BulletsChamber);
 	
 	UFUNCTION(BlueprintCallable, Category = "UPhoneBlueprintLib")
 	static bool IsPhoneCallable(const bool &canCall);
@@ -37,5 +37,8 @@ class BRACKEYSJAM2026_API UPhoneBlueprintLib : public UBlueprintFunctionLibrary
 
 	UFUNCTION(BlueprintCallable, Category = "UPhoneBlueprintLib")
 	static bool TurnOffOnCall(bool& canCall);
+
+	UFUNCTION(BlueprintCallable, Category = "UPhoneBlueprintLib")
+	static void SetActorCollisionToFalse(AActor* actor, const bool& canCall);
 
 };
